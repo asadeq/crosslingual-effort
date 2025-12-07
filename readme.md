@@ -10,3 +10,8 @@ These can be opened and examined used either Excel or Python
 
 The data_analyzer.ipnyb contains a Python Jupyter script that was used to generate all the statistics reported in the study (and more that were not included).
 
+# Supplementary Materials
+
+- Answer Sheet.pdf: The answer sheet that participants filled out after viewing each visual stimulus.
+- Eye-Tracking Questionnaire.pdf: The questionnaire that participants filled out before starting the eye-tracking portion of the study.
+
